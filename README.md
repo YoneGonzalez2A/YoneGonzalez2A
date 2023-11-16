@@ -1,16 +1,24 @@
-<h1> Moshi moshi¿? It's Yen's  time! <img src*"https://i.pinimg.com/564x/29/7a/cf/297acf10c81cdbb8825e0d81f970e2fe.jpg" wigth*"30px"> </h1>
-<h2>Frontend Developer </h2> 
-<!--
-**YoneGonzalez2A/YoneGonzalez2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>🌷 Moshi moshi❔  It's Yen's time ❕ 🌷 </h1>
+<h2>🌷 Artist in progress... 🌷 </h2>
 
-Here are some ideas to get you started:
+<img src="https://i.pinimg.com/564x/6b/3e/88/6b3e885f891b6991b27e3f2bf4f35872.jpg" width="300px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Do you want to know something about me ❔
+- I'm 21 years old and I'm from Barcelona, Spain
+- I have been designing since I was a child
+- I am a great lover of traditional Japanese culture, although I like to embrace the culture of my country 
+- My specialty is animation and illustration, but I'm also an actress
+
+### Programs I use: 🌷
+<img src= "https://img.shields.io/badge/Photoshop-FF4DC1?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=FF4DC1">
+<img src= "https://img.shields.io/badge/Premiere_Pro-FE65C9?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=FE65C9">
+
+<img scr= "https://img.shields.io/badge/After_Effects-FFA2E8?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=FFA2E8">
+<img scr= "https://img.shields.io/badge/Z_brush-EAE2E8?style=for-the-badge&logo=Zotero&logoColor=white&labelColor=EAE2E8">
+
+
+
+Zbrush
+Audition
+3D Max
+Maya
