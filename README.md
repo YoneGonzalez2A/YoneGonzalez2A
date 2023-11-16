@@ -1,5 +1,5 @@
-<h1> Moshi moshi¿? It's Yen's  time! 
-<img src*"https://i.pinimg.com/564x/29/7a/cf/297acf10c81cdbb8825e0d81f970e2fe.jpg" wigth*"30px"> </h1>
+<h1> Moshi moshi¿? It's Yen's  time! <img src*"https://i.pinimg.com/564x/29/7a/cf/297acf10c81cdbb8825e0d81f970e2fe.jpg" wigth*"30px"> </h1>
+<h2>Frontend Developer </h2> 
 <!--
 **YoneGonzalez2A/YoneGonzalez2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
